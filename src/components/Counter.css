@@ -1,0 +1,11 @@
+.counter {
+    display: inline-flex;
+}
+
+.counter h4 {
+    font-size: 25px;
+    padding-left: 2px;
+    padding-right: 5px;
+    margin-top: -5px;
+    text-decoration: none;
+}
